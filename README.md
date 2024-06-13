@@ -18,7 +18,7 @@ The landing page is designed to be clean, modern, and responsive, providing a gr
 - HTML
 - CSS
 - JavaScript
-- 
+  
 ## Usage
 
 To view the landing page, simply open the following link in your web browser:
